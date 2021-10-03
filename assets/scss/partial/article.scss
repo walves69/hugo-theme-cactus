@@ -72,6 +72,8 @@ article {
       font-weight: bold;
 
       p {
+		border-left: solid .5em #2bbc8a;
+		padding-left: .5em;
         margin: 0;
       }
       &:before {
